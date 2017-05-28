@@ -1,0 +1,49 @@
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe.config
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.pdb
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csprojResolveAssemblyReference.cache
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Form1.resources
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Properties.Resources.resources
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csproj.GenerateResource.Cache
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.exe
+c:\users\ана\documents\visual studio 2017\Projects\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.pdb
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe.config
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.exe
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.pdb
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.pdb
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csprojResolveAssemblyReference.cache
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Form1.resources
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Properties.Resources.resources
+C:\Users\Martin Popovski\Downloads\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe.config
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.exe
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.pdb
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.pdb
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Form1.resources
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csproj.GenerateResource.Cache
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe.config
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.pdb
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csprojResolveAssemblyReference.cache
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Form1.resources
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Properties.Resources.resources
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csproj.GenerateResource.Cache
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.exe
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.pdb
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.WelcomeScreen.resources
+C:\Users\Ана\Downloads\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.GameOverScreen.resources
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe.config
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.exe
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.pdb
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.exe
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\bin\Debug\ShootingStarsGame.pdb
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csprojResolveAssemblyReference.cache
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Form1.resources
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.GameOverScreen.resources
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.Properties.Resources.resources
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.WelcomeScreen.resources
+C:\Users\Martin Popovski\Desktop\ShootingStarsGame\ShootingStarsGame\ShootingStarsGame\obj\Debug\ShootingStarsGame.csproj.GenerateResource.Cache
